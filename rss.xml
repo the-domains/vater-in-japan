@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vater in japan]]></title>
+        <description><![CDATA[vater in japan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 02:28:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e6124f-1bed-46dd-ba3d-37d113a711c7.jpg">]]></description>
+            <link>undefinedmia-is-here/index.html</link>
+            <guid isPermaLink="false">9656846b-00d2-45f1-af34-2f2bce6fc5bb</guid>
+            <pubDate>Thu, 17 Mar 2016 02:28:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
