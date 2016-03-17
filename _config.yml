@@ -1,0 +1,28 @@
+name: vater in japan
+favicon: null
+layout_spectrum: 0.4064425895921886
+typography_spectrum: 0.11278326134197414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49393064458854496
+  lightness: 0.5348752399440855
+  saturation: 0.7758768200874329
+  rhythmicContrast: 0.9687190826516598
+purpose: []
